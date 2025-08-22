@@ -5,7 +5,7 @@
 
 - 💞️ I’m looking to collaborate on nothing but I will let you mess around on random python projects I make, hopefully you make something cool
 
-- 📫 How to reach me, idk
+- 📫 How to reach me, dustytalent@gmail.com
 
 <!---
 DustyTalent/DustyTalent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
